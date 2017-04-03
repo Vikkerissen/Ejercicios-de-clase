@@ -20,7 +20,7 @@ scanf("%d", &da);
 printf("\nIngrese el mes actual: ");
 scanf("%d", &ma);
 
-printf("\nIngrese el a%co actual: ");
+printf("\nIngrese el a%co actual: ", 164);
 scanf("%d", &aa);
 
 edad = aa-an;
