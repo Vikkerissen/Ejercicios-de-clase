@@ -1,3 +1,5 @@
+//Dadas las notas de 2 exámenes, informar si promocionó, cursó o recursó la materia.
+
 #include <stdio.h>
 #include <stdlib.h>
 
