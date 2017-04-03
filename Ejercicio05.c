@@ -11,7 +11,7 @@ scanf("%d", &dn);
 printf("\nIngrese el mes de nacimiento: ");
 scanf("%d", &mn);
 
-printf("\nIngrese el anio de nacimiento: ");
+printf("\nIngrese el an%co de nacimiento: ", 164);
 scanf("%d", &an);
 
 printf("\nIngrese el dia actual: ");
