@@ -1,3 +1,5 @@
+//Dados 3 números enteros, mostrar la suma y mostrar la multiplicación. 
+
 #include <stdio.h>
 #include <stdlib.h>
 
