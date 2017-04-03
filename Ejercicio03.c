@@ -1,3 +1,5 @@
+//Calcular la suma, resta y multiplicación de los numeros ingresados.
+
 #include <stdio.h>
 #include <stdlib.h>
 
