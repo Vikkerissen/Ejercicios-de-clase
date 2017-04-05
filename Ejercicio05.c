@@ -28,7 +28,7 @@ edad = aa-an;
 if(ma<mn)
   {
    edad = edad-1;
-   if(ma==mn && da<dn )
+   if(ma==mn && da<dn)
       {
        edad = edad-1;
        }
